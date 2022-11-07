@@ -1,0 +1,7 @@
+{
+  "name": "JWSMobile",
+  "displayName": "JWSMobile",
+  "packagerOpts": {
+    "assetExts": ["js", "css", "webmanifest"]
+},
+}
